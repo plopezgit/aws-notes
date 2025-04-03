@@ -16,9 +16,7 @@ ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
 - Creating Databases with RDS
 - Practical Exercises with the AWS Console
 
-EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1
-
-![test](tests/test 2025-04-03 at 4.02.22 PM.png)
+EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgit/aws-notes/issues/3
 
 ## Serverless Architecture with AWS
 
