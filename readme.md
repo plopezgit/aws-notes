@@ -17,6 +17,7 @@ ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
 - Practical Exercises with the AWS Console
 
 EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1
+
 ![test](test 2025-04-03 at 4.02.22 PM.png)
 
 ## Serverless Architecture with AWS
