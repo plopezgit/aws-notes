@@ -3,6 +3,9 @@
 ## Introduction to AWS
 
 - Cloud Computing Basics and Introduction to AWS
+
+ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
+
 - Creating an AWS Account and Using the AWS Management Console
 - Understanding Key Services: EC2, S3, RDS, Lambda
 
@@ -12,6 +15,8 @@
 - Object Storage with S3
 - Creating Databases with RDS
 - Practical Exercises with the AWS Console
+
+EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1
 
 ## Serverless Architecture with AWS
 
