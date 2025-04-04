@@ -21,7 +21,7 @@ EC2 https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgi
 
 S3: https://github.com/plopezgit/aws-notes/issues/9
 
-RDS: https://github.com/plopezgit/aws-notes/issues/10
+RDS: https://github.com/plopezgit/aws-notes/issues/10, https://github.com/plopezgit/aws-notes/issues/11
 
 ## Serverless Architecture with AWS
 
