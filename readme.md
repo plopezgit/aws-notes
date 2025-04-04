@@ -18,6 +18,8 @@ ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
 
 EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgit/aws-notes/issues/3
 
+S# Practical Exercise: https://github.com/plopezgit/aws-notes/issues/9
+
 ## Serverless Architecture with AWS
 
 - Introduction to AWS Lambda
