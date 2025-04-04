@@ -15,7 +15,7 @@ ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
 - Object Storage with S3
 - Creating Databases with RDS
 
-###Practical Exercises with the AWS Console
+### Practical Exercises with the AWS Console
 
 EC2 https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgit/aws-notes/issues/3
 
