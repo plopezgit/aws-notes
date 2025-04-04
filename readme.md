@@ -14,11 +14,14 @@ ref: https://aws.amazon.com/es/compliance/shared-responsibility-model/
 - Configuring Virtual Servers with EC2
 - Object Storage with S3
 - Creating Databases with RDS
-- Practical Exercises with the AWS Console
 
-EC2 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgit/aws-notes/issues/3
+###Practical Exercises with the AWS Console
 
-S3 Practical Exercise: https://github.com/plopezgit/aws-notes/issues/9
+EC2 https://github.com/plopezgit/aws-notes/issues/1, https://github.com/plopezgit/aws-notes/issues/3
+
+S3: https://github.com/plopezgit/aws-notes/issues/9
+
+RDS: https://github.com/plopezgit/aws-notes/issues/10
 
 ## Serverless Architecture with AWS
 
